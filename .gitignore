@@ -3,9 +3,13 @@ _promo/*.afdesign
 !_promo/*.png
 *.tga
 *.blend[0-9]*
+*.assbin
 *_autosave_[0-9].spp
 *.fbx
 _*Ref.*
 desktop.ini
+/axe/ref/*
 /PluginFolder/Saved
+/PluginFolder/Binaries
+/PluginFolder/Intermediate
 /PluginFolder/Metadata/Crypto.json
