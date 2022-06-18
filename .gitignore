@@ -1,0 +1,11 @@
+_promo/*.afdesign
+*.png
+!_promo/*.png
+*.tga
+*.blend[0-9]*
+*_autosave_[0-9].spp
+*.fbx
+_*Ref.*
+desktop.ini
+/PluginFolder/Saved
+/PluginFolder/Metadata/Crypto.json
