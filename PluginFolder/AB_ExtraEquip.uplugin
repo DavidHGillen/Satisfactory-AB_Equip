@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "0.0.1",
+	"SemVersion": "0.0.1",
+	"FriendlyName": "Augmented Survivor Equipment",
+	"Description": "Ficsit ",
+	"Category": "Modding",
+	"CreatedBy": "AngryBeaver#9028",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules" : [
+		{
+			"Name" : "AB_ExtraEquip",
+			"Type" : "Runtime",
+			"LoadingPhase" : "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.2.0",
+			"bIsOptional": false,
+			"Enabled": true
+		}
+	]
+}
