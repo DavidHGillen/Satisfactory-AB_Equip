@@ -6,7 +6,7 @@
 	"FriendlyName": "Augmented Survivor Equipment",
 	"Description": "Ficsit ",
 	"Category": "Modding",
-	"CreatedBy": "AngryBeaver#9028",
+	"CreatedBy": "AngryBeaver",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
@@ -25,7 +25,7 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.4.1",
+			"SemVersion": "^3.7.0",
 			"bIsOptional": false,
 			"Enabled": true
 		}
