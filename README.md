@@ -1,7 +1,7 @@
 # Satisfactory AB_ExtraEquip
 The development source for the Satisfactory mod AB_ExtraEquip
 
-See the [mod page](https://ficsit.app/mod/?????????????) for details
+See the [mod page](https://ficsit.app/mod/AB_ExtraEquip) for details
 
 # Setup
 If you want to play the mod, install it via SMM.

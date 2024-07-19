@@ -1,10 +1,10 @@
 {
 	"FileVersion": 3,
-	"Version": 0,
-	"VersionName": "0.0.1",
-	"SemVersion": "0.0.1",
-	"FriendlyName": "Augmented Survivor Equipment",
-	"Description": "Ficsit ",
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"FriendlyName": "Augmented Pioneer Equipment",
+	"Description": "Ficsit has approved your request to try out experimental new equipment.",
 	"Category": "Modding",
 	"CreatedBy": "AngryBeaver",
 	"CreatedByURL": "",
@@ -15,11 +15,11 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"Modules" : [
+	"Modules": [
 		{
-			"Name" : "AB_ExtraEquip",
-			"Type" : "Runtime",
-			"LoadingPhase" : "Default"
+			"Name": "AB_ExtraEquip",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
