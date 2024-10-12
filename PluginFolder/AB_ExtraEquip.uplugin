@@ -7,7 +7,7 @@
 	"Description": "Ficsit has approved your request to try out experimental new equipment.",
 	"Category": "Modding",
 	"CreatedBy": "AngryBeaver",
-	"CreatedByURL": "",
+	"CreatedByURL": "https://github.com/DavidHGillen/Satisfactory-AB_Equip",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
@@ -15,6 +15,7 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
+	"GameVersion": ">=365306",
 	"Modules": [
 		{
 			"Name": "AB_ExtraEquip",
@@ -25,9 +26,8 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.7.0",
-			"bIsOptional": false,
-			"Enabled": true
+			"Enabled": true,
+			"SemVersion": "^3.8.0"
 		}
 	]
 }
